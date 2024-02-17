@@ -1,5 +1,5 @@
 ---
-title: "Family History Avoidance"
+title: "Family History Beginnings"
 author: "DK"
 date: "2024-02-14"
 categories: [tools]
@@ -26,7 +26,7 @@ We have had access to the following
 
 -   My family genealogy - 자랑스런 나의족보
 
--   Oriental Chronology - 東洋年表 - 동양 연대기
+-   Oriental Chronology - 東洋年表 - 동양 연표
 
 -   Everyday Chinese Dictionary - 活用玉篇 - 활용옥편
 
