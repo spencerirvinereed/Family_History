@@ -1,0 +1,98 @@
+---
+title: "My Aunt: Dad's Side"
+author: "DK"
+date: "2024-02-19"
+format:
+  html:
+    resources:
+      - audio.mp3
+categories: [records, kangs]
+image: "m1.jpeg"
+---
+
+I have a number of 이모님들.  
+My mom had 4 younger sisters.
+
+My Dad had 3 younger brothers.  
+He had only one sister.  
+고모님, 강금녀.
+
+Growing up she lived close to us.
+
+Because 고모님 got married earlier than my dad, her sons 복남, 복용 were a few years older than my sisters.
+
+Her husband, also from Northern Korea, was the only one to escape to the South.
+
+![Dad and 전기린](dad_uncle.jpg)
+
+Consequently, we did many things as an extended family.
+
+One time, three of us, my younger cousin, 인영, my sister and I were visiting 고모님댁
+
+We tried to cross the railroad tracks while the train was approaching.
+
+![My Home Area, Mid 1960s](old_home.jpg)
+
+My sister was quick and she escaped angry train engineers.  
+
+인영 and I were captured and the train engineers called my mother and gave a stern lecture about taking care her children.^[This is my recollection of events. My mother and my sisters may have a different version of events.]
+
+---
+
+Growing up, I often saw 고모님 and 할머님 together.  
+Not only did they look similar but they also lived close to one another and they did many things together.
+
+고모님 attended all of the Kangs gatherings and functions.
+
+When dad went to Vietnam, during the 60s, she went to the 김포 Airport.
+
+![At the Gimpo Airport](airport.jpg)
+
+When our family left for the United States, she came and supported us.
+
+When we returned to Korea during the 90s, she was there to greet us.
+
+---
+
+고모님 moved to the United States in her later years.
+
+She was a faithful Christian till the end.
+
+Passed away in April of 2017
+
+Her 2 sons attended her memorial service.
+
+![복용, 복남](brothers.JPG)
+
+---
+
+When she passed away in Maryland, I didn't have much information.
+
+I began calling Korean churches, near her home.
+
+At one of the churches a lady answered.
+She didn't know my 고모님.
+
+But her mother, who was listening, she knew our 고모님 through the Senior Citizen Center they both attended.
+
+She told us where her church was.
+I got to attend the church on Sunday and meet and thank her fellow church members.
+
+The helpful lady's church was nearby and I was able to see her and thank her in person.
+
+![](banquest.JPG)
+
+---
+
+I am grateful for the times and memories and the example of faith of 고모님.
+
+## Audio Recording of her life sketch (in Korean)
+
+<figure>
+<figcaption>Click to Listen</figcaption>
+<audio controls src="audio.mp3">
+Your browser does not support the <code>audio</code> element.
+</audio>
+</figure>
+
+![](m1.jpeg)
