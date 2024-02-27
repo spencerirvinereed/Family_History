@@ -1,82 +1,148 @@
 ---
-title: "Grandma Kim Yun Hwa"
+title: "Grandma Kim : 김연화 (金蓮花)"
 author: "DK"
 date: "2024-02-25"
 categories: [records]
-draft: yes
-image: "sunrise.jpeg"
+image: "m4.jpeg"
 ---
 
-Grandma Kim (the wife of 황운학) had a very difficult life.
+Grandma Kim (the wife of 황운학), was the envy of her neighbors.
 
-When young, she was the envy of her neighbors.
+She was that bride from a big city to the north, 평양 (平壤)^[<https://ko.wikipedia.org/wiki/%ED%8F%89%EC%96%91%EC%8B%9C?oldformat=true>]
 
-A bride from the big city, married to a well to do merchant.
+Married to a well to do merchant.
 
-She would wear the latest fashion, instead of the traditional 한복
-
-Then as often the case, tides change, and very quickly.
-
-She went from a landowner to serf within 3 to 4 years as communism replaced capitalism
+She would wear the latest fashion, 양장^[<https://folkency.nfm.go.kr/kr/topic/detail/7105>] (洋裝 or西服) instead of the traditional 한복 most women wore.
 
 Grandpa and Grandma were landowners and business minded persons.
 
 They owned orchards, Grandpa would venture out to big cities to acquire new items
 
-They operated 협성 상회
+For they operated 협성 상회 (協成商会), a local sundry shop as well as a branch of 매일신문 (毎日新聞)
 
-A branch of 매일신문
+They welcomed their 8th child and only surviving son into the family.
 
-later she became more devout.
+He was to fill the void left by the death of their 4th child, also a son.
 
-I remember the day we left for America, she came.
+(Their 4th and 5th child only lived a month. a son (득원) and a daughter (현숙) Both developed respiratory illness after catching what seemed to be common cold)
 
-Not much was said, she had brought a bag of apples.
+![](m4.jpeg)
 
-For the long journey ahead, or did she remember that those were my favorite fruit
+Then quickly life got difficult for her and the family.
 
-When she passed away in November 1999, she had asked for some 감 or persimmons.
+Her husband, developed acute appendicitis and passed away.
+
+One hundred days after the birth of their son, at age 33.^[Son was born on 7/1 and grandpa passed away on 10/27]
+
+She went from a landowner to serf within 3 to 4 years as communism replaced freedom and free market.
+
+She escaped North Korea, with the help from her relatives. [Link](https://oakhi.github.io/Life-Begins-When/posts/20231212%20Sayings%20of%20My%20Parents/#a-story-of-an-escape-from-north-korea) to details of the escape
+
+She settled in the island of 진도.^[3rd largest island in Korea, off the Southwest coast. Roughly 1/2 the size of Singapore]
+
+To make a living, she would travel to 목포시, roughly 15 miles to the north, purchase items that she would sell in an open-air market.
+
+However, after seeing the local women working side by side with men, and not wanting that for her daughters, she moved and joined her relatives in 인천.
+
+![Seated, Mom, her sisters, from left to right, 현신, 현덕, 현애](m5.JPG)
+
+My earliest memory is that she owned a 슈퍼마켓, in the 동인천 area.
+
+She would always treated me kindly and she seemed angelic to me.
+
+However, through her smiles, I could tell she always carried a tinge of sadness.
+
+By the time I was born, she had been a widow for nearly 25 years and she endured abrupt change in fortune and had escaped to South with just the family.
+
+Her faith in Christ carried her through.
+
+She seemed frail but she was a strong person.
+
+---
+
+I remember we were getting ready to leave for 김포공항.
+
+She came and didn't say much, and we sensed her sadness.
+
+I recall, she had brought some apples for our journey to America.
+
+![](m2.jpeg)
+
+My mom's sisters took turn in taking care of Grandma Kim.
+
+Met her again in 1990, because my aunt 현덕 had taken good care of her, she looked young and healthy, even as she approached 80s.
+
+She looked more vibrant and seemed at peace.
+
+![](m1.JPG)
+
+When she passed away on November 1999, all of the children had gathered by her side.
+
+She had asked for some 감 or persimmons, her favorite
 
 The store had closed by then, told her that we would get her some in the morning.
 
 She did not make it to morning.
 
-Fearing this my wife had preserved some 감 when my mother had become ill.
+At one time she was among the happiest and most blessed women, according to my mom
 
-Met her again in 1990, because my aunt 황현덕 had taken good care of her, she looked young and healthy, even as she approached 80s.
+Most, if not all, of her material, worldly possession was taken and also her husband.
 
-Got to meet her 2 daughters that lived by her in 인천.
+She would live nearly 60 years alone.
 
-Memories of 현숙
+But she raised 4 daughters and a son to adulthood, married them to fellow North Koreans.
 
-Mom was born in Feb, her sister in December the following year.
+Planted in them a faith in Jesus Christ.
 
-Technically, 연년생
+She taught us by example, for she lived an angel-like life and we have a strong faith that she is united with her husband and the rest of the family.
 
-Mom's 외삼촌
+![](m3.jpeg)
 
-promised to educate all of the children upon grandpa 황
+## My Father and My Mother Family Diagram
 
-They had 5 daughters in a row.
+A copy of abbreviated family record, [link](https://spencerirvinereed.github.io/Family_History/posts/20240218%20Hwang%20Family%20Intro/)
 
-In fact, they lost a pair, a son (득원) and daughter (현숙)
+```{r}
+#| warning: false
+#| echo: false
 
-They caught cold
+library(DiagrammeR)
 
-7/1 son born and grandpa 10/27 passed away
+DiagrammeR::grViz("digraph {
 
-mother 8 and 2 passed away in
+graph [layout = dot, rankdir = TD]
 
-Happiest among women she was, according to my mom
+# define the global styles of the nodes. We can override these in box if we wish
+node [shape = rectangle, style = filled, fillcolor = Linen]
 
-So happy took a blanket and paraded their new son.
+p1 [label = 'Grandpa 강현용']
+p2 [label = 'Grandma 김옥돌', shape = oval]
+c1 [label =  '강금섭']
+c2 [label = '강은섭']
+c3 [label = '강근섭']
+c4 [label = '강금녀', shape = oval]
+c5 [label = '강춘섭']
+c6 [label = '강경섭']
 
-Her family consisted of preachers and teachers.
+# edge definitions with the node IDs
+{p1 p2}  -> c1 -> c2 -> c3 -> c4 -> c5 -> c6
 
-Also doctors.
+p3 [label = 'Grandpa 황운학']
+p4 [label = 'Grandma 김연화', shape = oval]
+d1 [label =  '황현실', shape = oval]
+d2 [label = '황현옥', shape = oval]
+d3 [label= '황득원', color=blue]
+d4 [label =  '황현옥', shape = oval, color=blue]
+d5 [label = '황현애', shape = oval]
+d6 [label= '황현덕', shape = oval]
+d7 [label =  '황현신', shape = oval]
+d8 [label = '황태민']
 
-Prominent family.
+# edge definitions with the node IDs
 
-평양 based clan, moved to 황해도.
+{p3 p4}  -> d1 -> d2 -> d3 -> d4 -> d5 -> d6 -> d7 -> d8
 
-부서대장 36 moves mastered.
+}")
+
+```
+
