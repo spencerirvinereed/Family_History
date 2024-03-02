@@ -8,11 +8,15 @@ image: "m4.jpeg"
 
 Grandma Kim (the wife of 황운학), was the envy of her neighbors.
 
-She was that bride from a big city to the north, 평양 (平壤)^[<https://ko.wikipedia.org/wiki/%ED%8F%89%EC%96%91%EC%8B%9C?oldformat=true>]
+She was that bride from a big city to the north, 평양 (平壤)[^1]
+
+[^1]: <https://ko.wikipedia.org/wiki/%ED%8F%89%EC%96%91%EC%8B%9C?oldformat=true>
 
 Married to a well to do merchant.
 
-She would wear the latest fashion, 양장^[<https://folkency.nfm.go.kr/kr/topic/detail/7105>] (洋裝 or西服) instead of the traditional 한복 most women wore.
+She would wear the latest fashion, 양장[^2] (洋裝 or西服) instead of the traditional 한복 most women wore.
+
+[^2]: <https://folkency.nfm.go.kr/kr/topic/detail/7105>
 
 Grandpa and Grandma were landowners and business minded persons.
 
@@ -32,13 +36,17 @@ Then quickly life got difficult for her and the family.
 
 Her husband, developed acute appendicitis and passed away.
 
-One hundred days after the birth of their son, at age 33.^[Son was born on 7/1 and grandpa passed away on 10/27]
+One hundred days after the birth of their son, at age 33.[^3]
+
+[^3]: Son was born on 7/1 and grandpa passed away on 10/27
 
 She went from a landowner to serf within 3 to 4 years as communism replaced freedom and free market.
 
 She escaped North Korea, with the help from her relatives. [Link](https://oakhi.github.io/Life-Begins-When/posts/20231212%20Sayings%20of%20My%20Parents/#a-story-of-an-escape-from-north-korea) to details of the escape
 
-She settled in the island of 진도.^[3rd largest island in Korea, off the Southwest coast. Roughly 1/2 the size of Singapore]
+She settled in the island of 진도.[^4]
+
+[^4]: 3rd largest island in Korea, off the Southwest coast. Roughly 1/2 the size of Singapore
 
 To make a living, she would travel to 목포시, roughly 15 miles to the north, purchase items that she would sell in an open-air market.
 
@@ -58,7 +66,7 @@ Her faith in Christ carried her through.
 
 She seemed frail but she was a strong person.
 
----
+------------------------------------------------------------------------
 
 I remember we were getting ready to leave for 김포공항.
 
@@ -119,10 +127,12 @@ p1 [label = 'Grandpa 강현용']
 p2 [label = 'Grandma 김옥돌', shape = oval]
 c1 [label =  '강금섭']
 c2 [label = '강은섭']
-c3 [label = '강근섭']
-c4 [label = '강금녀', shape = oval]
-c5 [label = '강춘섭']
-c6 [label = '강경섭']
+c3 [label = '강샛별', shape = oval, color=blue]
+c4 [label = '강근섭']
+c5 [label = '강금녀', shape = oval]
+c6 [label = '강춘섭']
+c7 [label = '강선녀', shape = oval, color=blue]
+c7 [label = '강경섭']
 
 # edge definitions with the node IDs
 {p1 p2}  -> c1 -> c2 -> c3 -> c4 -> c5 -> c6
@@ -130,7 +140,7 @@ c6 [label = '강경섭']
 p3 [label = 'Grandpa 황운학']
 p4 [label = 'Grandma 김연화', shape = oval]
 d1 [label =  '황현실', shape = oval]
-d2 [label = '황현옥', shape = oval]
+d2 [label = '황현숙', shape = oval]
 d3 [label= '황득원', color=blue]
 d4 [label =  '황현옥', shape = oval, color=blue]
 d5 [label = '황현애', shape = oval]
@@ -145,4 +155,3 @@ d8 [label = '황태민']
 }")
 
 ```
-
