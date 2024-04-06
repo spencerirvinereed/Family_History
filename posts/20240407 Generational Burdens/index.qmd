@@ -1,0 +1,94 @@
+---
+title: "Generational Burdens"
+author: "DK"
+date: "2024-04-7"
+categories: [traditions]
+draft: yes
+image: "m1.jpg"
+---
+
+A dinner guest commented.
+
+> You have preserved good parts of both cultures
+
+Referring to Korea and America.
+
+I think he was being a good guest and complimenting the host. However, if he meant what he stated what exactly are the traits of these 2 cultures.
+
+Consulting Chat GPT produced the following Korean Traits, @sec-korean American Traits, @sec-american
+
+Is it Union or Intersection
+
+In set theory, when an element is not a member of any sets under consideration, it is said to be an element of the "empty set," also known as the "null set" or "void set." The empty set is denoted by the symbol ∅ or { } (braces with nothing inside). It is a set with no elements. Therefore, any element outside of the sets being discussed would be considered an element of the empty set.
+
+There is little or no overlap
+
+![Similarities between Korean and American Traits](national traits usa kor.png){#fig-f1}
+
+Means we have assimilated into a new culture, without giving up where we come from.
+
+
+## Koreans Tend to Cling to Past Traditions
+
+It seems that Koreans hold on to past teachings and traditions.
+Not all, but there are enough `Lone Wolfs` that remind the rest there are certain warnings, things to avoid.
+They are usually negative
+
+It would have prevented even the most optimistic individuals.
+
+Now all things are in play and questioned.
+
+Are they foolish or wise traditions
+Do we throw out all traditions, 
+What are worth keeping
+
+Will we keep the intersection of 2 cultures. $\cap$
+Focus on the union of 2 sets. $\cup$
+Abandon both and start over. { }
+
+
+
+
+## Traits of Korean People {#sec-korean}
+
+Collectivism: Korean society tends to prioritize the needs of the group over individual desires. Concepts such as harmony, loyalty to family, and respect for authority are highly valued.
+
+Hierarchy and Respect: Respect for elders, hierarchical relationships, and social order are significant aspects of Korean culture. Politeness and deference to those in positions of authority are expected.
+
+Hard Work and Perseverance: Koreans are often known for their strong work ethic and dedication to academic and professional success. There is a cultural emphasis on diligence, discipline, and striving for excellence.
+
+Education: Education is highly valued in Korean culture, and there is considerable pressure on students to excel academically. Parents often invest heavily in their children's education, viewing it as a pathway to success.
+
+Collective Identity: Koreans often have a strong sense of national pride and identity. Historical and cultural factors contribute to a collective consciousness that fosters solidarity and unity.
+
+Hospitality: Hospitality is an important cultural value in Korea. Guests are typically treated with great respect and generosity, and hosting gatherings or sharing meals is a common way of building and maintaining relationships.
+
+Reserved Expressiveness: Koreans may appear reserved or cautious in expressing emotions, particularly in public or formal settings. There is often an emphasis on maintaining harmony and avoiding confrontation.
+
+Group-oriented Decision Making: Decision-making processes in Korean society often involve consultation and consensus-building within the group rather than individual autonomy.
+
+Attention to Appearance: Personal appearance and presentation are often given significant importance in Korean culture. Dressing well and maintaining a neat and clean appearance are seen as indicators of respectability and social status.
+
+Technological Savvy: South Korea, in particular, is known for its technological advancements and widespread adoption of digital technologies. Koreans are often early adopters of new technologies and are highly proficient in digital communication and media consumption.
+
+## Traits of American People {#sec-american}
+
+Diversity: America is a melting pot of cultures, ethnicities, and backgrounds. This diversity is reflected in the attitudes, beliefs, and behaviors of its people.
+
+Individualism: Americans often value independence, self-reliance, and personal freedom. The "American Dream" embodies the idea that anyone can achieve success through hard work and determination.
+
+Optimism: There is a prevalent sense of optimism and can-do attitude among many Americans. This is often reflected in phrases like "the sky's the limit" and "anything is possible."
+
+Entrepreneurial Spirit: Americans are known for their innovation and entrepreneurial drive. Many successful businesses and technological advancements have originated in the United States.
+
+Informality: Americans tend to be relatively informal in their interactions, both socially and in professional settings. This informality can extend to language, dress, and behavior.
+
+Patriotism: Many Americans have a strong sense of national pride and patriotism. This can manifest in displays of the American flag, participation in national holidays and events, and support for the country's symbols and institutions.
+
+Pragmatism: Americans often value practical solutions and efficiency. They may prioritize results over tradition or ideology in problem-solving.
+
+Friendliness: Americans are often perceived as friendly and outgoing, willing to strike up conversations with strangers and extend hospitality to guests.
+
+Consumerism: The United States has a consumer-driven culture, and many Americans place importance on material possessions and personal wealth.
+
+Work Ethic: There's a prevailing belief in the value of hard work and dedication to one's career or goals. This is reflected in long working hours and a culture that often prioritizes productivity.
