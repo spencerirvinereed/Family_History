@@ -1,73 +1,49 @@
 ---
-title: "Visit to Korea - 2007"
+title: "Hwang Family Records"
 author: "DK"
-date: "2024-04*05"
-categories: [travels]
-draft: yes
-image: "m1.jpg"
+date: "2024-04-05"
+categories: [records]
+image: "m1.jpeg"
 ---
 
-Mom met one of her relatives. The relative handed over 2 books containing records of mom's family
+Visited Korea a number of times but I did not get to meet mother's extended family.
 
-I didn't recognize any of its writings. Didn't fully appreciate its content and the work of gathering and preserving.
+One time in during summer of 2007.
 
-Received a record of the Hwang Family 황 黃 Hwang
+Mom met one of her relatives.
 
-![](cover.JPG)
+The relative gave us 2 books containing records of mom's family
+
+I couldn't recognize any of its writings.
+
+Didn't fully appreciate its content and the work of gathering and preserving.
+
+![Hwang황黃 Family Record](cover.JPG){#fig-f1}
 
 Specifically
 
-[제안(齊安)황씨 ](http://hwang.ne.kr/jokbo/php/jbMove.php?IdNo=4206580)
+[제안(齊安)황씨](http://hwang.ne.kr/jokbo/php/jbMove.php?IdNo=4206580) <http://hwang.ne.kr/jokbo/DAT/jbClan.php>
 
-<http://hwang.ne.kr/jokbo/DAT/jbClan.php>
+Recently opened its pages again.
 
-![](record.JPG)
+Came across this record. Book 2 page 319, row 2 
 
-His father was 윤일 潤一
-Born in the year 己酉 기유
-2 월 8 일 생
-
- 1  1969
- 2  1909
- 3  1849
- 4  1789
- 5  1729
- 6  1669
- 7  1609
- 8  1549
- 9  1489
-10  1429
+![An Entry for 황운학](images/hwang%20record.JPG){#fig-f2}
 
 황운학
 
-무자년 1 웧 15 일 생
+무자년 1 웧 15 일 생 실백천 조씨 이거 평창군 대화면
 
-실백천 조씨 이거
+He was born in the yea, 戊子. According to 육십갑자(六十甲子) way of counting years corresponds to
 
-평창군 대화면
+1 2008 2 1948 3 1888 4 1828 5 1768 6 1708 7 1648 8 1588 9 1528 10 1468
 
-Book 2 page 319, row 2
+His father was 윤일 潤一 Born in the year 己酉 기유 2 월 8 일 생 That year corresponds to 1 1969 2 1909 3 1849 4 1789 5 1729 6 1669 7 1609 8 1549 9 1489 10 1429
 
-Born 15 January the year of 戊子 which corresponds to
+My maternal grandfather was named 황운학 and his father was 황만수 Grandfather was born in the year 1909
 
-1 2008
+I will keep searching this book and learn more about the 족보[^1].
 
-2 1948
+![](m1.jpeg)
 
-3 1888
-
-4 1828
-
-5 1768
-
-6 1708
-
-7 1648
-
-8 1588
-
-9 1528
-
-10 1468
-
-
+[^1]: 족보(族譜)는 '한 가문의 계통과 혈통 관계를 적어 기록한 책' 또는 '한 가문의 계통과 혈통 관계'이다, https://namu.wiki/w/%EC%A1%B1%EB%B3%B4
