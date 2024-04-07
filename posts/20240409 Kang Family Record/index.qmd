@@ -1,0 +1,61 @@
+---
+title: "Kang Family 호적등본"
+author: "DK"
+date: "2024-04-09"
+categories: [records]
+image: "m1.jpg"
+---
+
+Original (in Korean and 漢字) record. 
+Also a translation provided by 신진 Law Firm.
+
+The translated pages may not match original Korean pages.
+
+::: {#fig-records1 layout-ncol="2"}
+![Family_Record_Page_1](Original_KangFamily_Record_Page_1.jpg){#fig-kor_page1}
+
+![Translated_KangFamily_Record_Page_3](Translated_KangFamily_Record_Page_03%20(1).jpg){#fig-eng_page1}
+
+Kang Family Records 1
+:::
+
+Kang Family 본관 (本貫) or 본적(本籍)
+
+함경남도 안변군 신모면 이남리 47
+
+::: {#fig-records2 layout-ncol="2"}
+![Family_Record_Page_2](Original_KangFamily_Record_Page_2.jpg){#fig-kor_page2}
+
+![Translated_KangFamily_Record_Page_5](Translated_KangFamily_Record_Page_05.jpg){#fig-eng_page2}
+
+Kang Family Records 2
+:::
+
+
+
+::: {#fig-records3 layout-ncol="2"}
+![Family_Record_Page_4](Original_KangFamily_Record_Page_4.jpg){#fig-kor_page3}
+
+![Translated_KangFamily_Record_Page_7](Translated_KangFamily_Record_Page_07.jpg){#fig-eng_page3}
+
+Kang Family Records 3
+:::
+
+
+::: {#fig-records4 layout-ncol="2"}
+![Family_Record_Page_5](Original_KangFamily_Record_Page_5.jpg){#fig-kor_page4}
+
+![Translated_KangFamily_Record_Page_9](Translated_KangFamily_Record_Page_09.jpg){#fig-eng_page4}
+
+Kang Family Records 4
+:::
+
+::: {#fig-records5 layout-ncol="2"}
+![Family_Record_Page_6](Original_KangFamily_Record_Page_6.jpg){#fig-kor_page5}
+
+![Translated_KangFamily_Record_Page_11](Translated_KangFamily_Record_Page_11.jpg){#fig-eng_page11}
+
+Kang Family Records 5
+:::
+
+![](m1.jpg)
