@@ -1,0 +1,132 @@
+---
+title: "FMEA"
+author: "DK"
+date: "2024-04-15"
+categories: [lessons, legacy]
+image: "m3.jpg"
+---
+
+Few acronyms conjures a uniform reaction from co-workers as the acronym `FMEA`
+
+The normal reaction is something close to disdain.
+
+> Failure Modes and Effects Analysis is a structured way to identify and address potential problems, or failures and their resulting effects on the system or process before an adverse event occurs^[<https://www.cms.gov/medicare/provider-enrollment-and-certification/qapi/downloads/guidanceforfmea.pdf>]
+
+It is a tool used to identify and mitigate risks.
+
+It began as a continuous improvement tool.
+
+It is often done as a team and can take hours or even days, depending on the complexity of the process being analyzed.
+
+Deliberation takes long, once team size is more than 2 or 3 persons.
+
+When completed, team members sigh a relief and never look at the document, until next time they are required to meet to satisfy the development requirements.
+
+---
+
+While working for a medical device company, I remember seeing a multiple TAB spreadsheet with entries after entries with this type of description,
+
+> ...potentially resulting in serious health complications or even death.
+
+And after spending days working on the document, I could see its impact on the new Quality Engineer.
+
+He was shaken.
+
+From that point on, he actively avoided working on FMEA.
+
+![](m3.jpg)
+---
+
+The main reason for negative view and impact of the tool is that,
+
+> It is depressing to consider all of the ways things can go wrong.
+
+After spending requisite time working on the document, some people entertain the idea of abandoning the project or leaving the company.
+
+What then is the solution?
+
+Perhaps spend some time putting together a companion document, `Success Modes and Effects Affirmation`.
+
+Projects are undertaken to provide benefits to society and the organization.
+
+Useful products, services, and even life saving inventions are imagined but at times abandoned due to the quagmire of organizations.
+
+![](m2.jpg)
+
+## FMEA Essentials in my life
+
+RPN is determined, (see @sec-rpn)
+
+Occurrence - how likely something will happen
+Severity - how much harm (pain) will this cause
+Detect - will I recognize the failure when it happens
+
+For Chat GPT summary of FMEA, see @sec-fmea
+
+Based on my experience, these are likely outcomes of most life's issues
+
+- The postulated events rarely occur, they were potential issues to begin with.
+- Even when they do occur the impact or the severity is much less than estimated
+- Most of the time, when the negative event occurs the sting is lessened by one's fortitude or there are loved ones around to either shield or comfort.
+
+Moreover, one's faith in and from God and examples and faith of others will help in meeting the challenges that do occur.
+
+So I will continue to slog through FMEAs at work.
+
+However, in life, I will note hazards, a potential sources of harm^[ISO 14971, the International Standard for Risk Management] but I will not dwell on them.
+
+Instead, I will build and maintain the Success Mode(s) Effects and Analysis
+Adding to it the learning from the past and present.
+From those that near and far.
+
+And find ways to implement them for future successes and failures.
+
+I believe this is the way my father and mother approached life and I will do likewise.
+
+![](m1.jpg)
+
+## Risk Priority Number: Courtesy of GPT {#sec-rpn}
+
+RPN, or Risk Priority Number, is a numerical value used in Failure Mode and Effects Analysis (FMEA) to prioritize potential failure modes based on their severity, occurrence likelihood, and detectability. Here's how RPN is determined:
+
+1.  **Severity (S)**: Severity refers to the potential impact or consequences of a failure mode on the system, process, or product being analyzed. It's typically assessed on a scale from 1 to 10, with 1 representing negligible impact and 10 representing catastrophic impact. The severity rating reflects the seriousness of the consequences if the failure were to occur.
+
+2.  **Occurrence (O)**: Occurrence evaluates the likelihood or frequency of a failure mode occurring within the given system, process, or product. It's also rated on a scale from 1 to 10, with 1 indicating rare occurrence and 10 indicating almost certain occurrence. The occurrence rating reflects the probability of the failure happening.
+
+3.  **Detection (D)**: Detection assesses the likelihood of detecting the failure mode before it leads to negative consequences. Like severity and occurrence, it's rated on a scale from 1 to 10, with 1 indicating very high detectability and 10 indicating very low detectability. The detection rating reflects the effectiveness of current detection methods or controls in place.
+
+To determine the Risk Priority Number (RPN) for a specific failure mode, you simply multiply the severity, occurrence, and detection ratings together:
+
+$$ RPN = Severity×Occurrence×Detection $$
+
+The resulting RPN provides a single numerical value that represents the relative risk associated with that particular failure mode. Higher RPN values indicate higher priority for addressing that failure mode because they represent combinations of more severe consequences, higher likelihood of occurrence, and lower detectability.
+
+RPNs help prioritize resources and efforts toward mitigating or eliminating the most critical failure modes to improve the overall reliability, safety, and quality of the system, process, or product being analyzed.
+
+## FMEA Steps: Courtesy of GPT {#sec-fmea}
+
+FMEA, or Failure Mode and Effects Analysis, is a systematic approach used to identify and prioritize potential failure modes within a process, product, or system, and to understand the potential effects of those failures. Here's a breakdown of the process:
+
+1.  **Scope Definition**: Identify the process, product, or system to be analyzed. Define the boundaries and objectives of the analysis.
+
+2.  **Team Formation**: Assemble a cross-functional team with members who have diverse expertise related to the process or product being analyzed. This team typically includes engineers, designers, quality experts, and relevant stakeholders.
+
+3.  **Identification of Failure Modes**: Brainstorm and list all possible failure modes that could occur within the chosen process or system. A failure mode is any way in which a process or product could fail to meet its intended purpose or function.
+
+4.  **Determination of Effects**: For each identified failure mode, determine the potential effects or consequences of that failure. These effects can range from minor inconveniences to serious safety hazards or financial losses.
+
+5.  **Assignment of Severity Ratings**: Assign a severity rating to each failure mode based on the potential consequences. Severity ratings typically range from 1 to 10, with higher numbers indicating more severe consequences.
+
+6.  **Identification of Causes**: Determine the root causes or mechanisms behind each failure mode. This involves analyzing the factors that could lead to the occurrence of the failure.
+
+7.  **Assignment of Occurrence Ratings**: Estimate the likelihood or frequency of each failure mode occurring. Occurrence ratings are typically assigned on a scale from 1 to 10, with higher numbers indicating a higher likelihood of occurrence.
+
+8.  **Assignment of Detection Ratings**: Assess the likelihood of detecting each failure mode before it leads to a negative consequence. Detection ratings are also typically assigned on a scale from 1 to 10, with higher numbers indicating a higher likelihood of detection.
+
+9.  **Calculation of Risk Priority Numbers (RPN)**: Calculate the Risk Priority Number for each failure mode by multiplying the severity, occurrence, and detection ratings together (RPN = Severity × Occurrence × Detection).
+
+10. **Prioritization and Action Planning**: Prioritize the identified failure modes based on their RPNs. Focus on addressing the failure modes with the highest RPNs first. Develop action plans to mitigate or eliminate these high-priority failure modes, which may involve design changes, process improvements, or additional quality controls.
+
+11. **Implementation of Corrective Actions**: Implement the action plans developed to address the high-priority failure modes. Monitor the effectiveness of these actions and make adjustments as necessary.
+
+12. **Continuous Improvement**: FMEA is an iterative process. Regularly review and update the analysis as new information becomes available or as changes are made to the process or product. This helps to ensure ongoing quality improvement and risk management.

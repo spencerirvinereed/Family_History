@@ -35,11 +35,102 @@
     "text": "If my mom had her wish, I would have been an accordion playing doctor.\nShe explained that her family has generations of doctors, both Western or Oriental (한의사 韓医師).\nThen she recognized my lack of interest or talent.\nShe changed her approach.\nShe began telling of the Honey Seller\n\nA long time ago, before I was born, a lady selling honey stopped by.\nShe asked for food and wine.\nThanking my mom, she told about her self.\nAfter losing her husband at an young age, she entered a buddist monastery and studied philosophy (哲學, 철학).\nThen she began to ask some questions about my mom.\nHer birthday, specifically her birth hour, and that of my father.\nShe was using the well established and utilized practice of 사주팔자(四柱八字)’\nThe Honey Selling Philospher (HSP) then said,\n\nIn coming days, your husband will go overseas. People will say of you.\n\n사람팔자는 시간문제 [people’s lives (fortunes) are time dependent]\nMy mom couldn’t imagine this scenario. She was struggling to feed the family and pay off the debt incurred when she married 2 of my father’s brothers.\nFurthermore she said, the baby in your womb will be a son and that son will also go overseas and will have the means to study as long as he wishes.\nThough she didn’t believe the HSP, she thanked her.\nYears later, the Honey Selling Philosopher returned. This time it was a much warmer reception and more food and wine.\nBecause my father was working in Vietnam, it meant more cash flow and the debt was shrinking.\nShe made sure, my mom acknowledged her prescience. Having correctly predicted the outcome, she reiterated the part of lasting education for her son.\n\nI have no way of confirming the veracity of this lady or the thigs attributed to her.\nMy father says, he met her once.\nIt may have been a part of toolkit used by moms from that period in Korea.\nWhatever the origin or the intent, its effect has been real.\nBecause she believed, I began to buy in and tried to make it happen.\n\nLikewise, because my mother believed in the Gospel of Jesus Christ, my life has been blessed.\nFrom a life of little prospect in 인천시부평동(仁川市). To a much better life in the United States.\nMy mother and father made it possible.\nFirst through faith in Jesus Christ, from Presbyterianism to the Church of Jesus Christ of Latter-Day Saints.\nWhether it is a familiar or unfamiliar requirements or commandments, I will follow my parents example."
   },
   {
+    "objectID": "posts/20240415 FMEA/index.html",
+    "href": "posts/20240415 FMEA/index.html",
+    "title": "FMEA",
+    "section": "",
+    "text": "Few acronyms conjures a uniform reaction from co-workers as the acronym FMEA\nThe normal reaction is something close to disdain.\nIt is a tool used to identify and mitigate risks.\nIt began as a continuous improvement tool.\nIt is often done as a team and can take hours or even days, depending on the complexity of the process being analyzed.\nDeliberation takes long, once team size is more than 2 or 3 persons.\nWhen completed, team members sigh a relief and never look at the document, until next time they are required to meet to satisfy the development requirements.\nWhile working for a medical device company, I remember seeing a multiple TAB spreadsheet with entries after entries with this type of description,\nAnd after spending days working on the document, I could see its impact on the new Quality Engineer.\nHe was shaken.\nFrom that point on, he actively avoided working on FMEA.\nThe main reason for negative view and impact of the tool is that,\nAfter spending requisite time working on the document, some people entertain the idea of abandoning the project or leaving the company.\nWhat then is the solution?\nPerhaps spend some time putting together a companion document, Success Modes and Effects Affirmation.\nProjects are undertaken to provide benefits to society and the organization.\nUseful products, services, and even life saving inventions are imagined but at times abandoned due to the quagmire of organizations."
+  },
+  {
+    "objectID": "posts/20240415 FMEA/index.html#fmea-essentials-in-my-life",
+    "href": "posts/20240415 FMEA/index.html#fmea-essentials-in-my-life",
+    "title": "FMEA",
+    "section": "FMEA Essentials in my life",
+    "text": "FMEA Essentials in my life\nRPN is determined, (see Section 2)\nOccurrence - how likely something will happen Severity - how much harm (pain) will this cause Detect - will I recognize the failure when it happens\nFor Chat GPT summary of FMEA, see Section 3\nBased on my experience, these are likely outcomes of most life’s issues\n\nThe postulated events rarely occur, they were potential issues to begin with.\nEven when they do occur the impact or the severity is much less than estimated\nMost of the time, when the negative event occurs the sting is lessened by one’s fortitude or there are loved ones around to either shield or comfort.\n\nMoreover, one’s faith in and from God and examples and faith of others will help in meeting the challenges that do occur.\nSo I will continue to slog through FMEAs at work.\nHowever, in life, I will note hazards, a potential sources of harm2 but I will not dwell on them.\nInstead, I will build and maintain the Success Mode(s) Effects and Analysis Adding to it the learning from the past and present. From those that near and far.\nAnd find ways to implement them for future successes and failures.\nI believe this is the way my father and mother approached life and I will do likewise."
+  },
+  {
+    "objectID": "posts/20240415 FMEA/index.html#sec-rpn",
+    "href": "posts/20240415 FMEA/index.html#sec-rpn",
+    "title": "FMEA",
+    "section": "Risk Priority Number: Courtesy of GPT",
+    "text": "Risk Priority Number: Courtesy of GPT\nRPN, or Risk Priority Number, is a numerical value used in Failure Mode and Effects Analysis (FMEA) to prioritize potential failure modes based on their severity, occurrence likelihood, and detectability. Here’s how RPN is determined:\n\nSeverity (S): Severity refers to the potential impact or consequences of a failure mode on the system, process, or product being analyzed. It’s typically assessed on a scale from 1 to 10, with 1 representing negligible impact and 10 representing catastrophic impact. The severity rating reflects the seriousness of the consequences if the failure were to occur.\nOccurrence (O): Occurrence evaluates the likelihood or frequency of a failure mode occurring within the given system, process, or product. It’s also rated on a scale from 1 to 10, with 1 indicating rare occurrence and 10 indicating almost certain occurrence. The occurrence rating reflects the probability of the failure happening.\nDetection (D): Detection assesses the likelihood of detecting the failure mode before it leads to negative consequences. Like severity and occurrence, it’s rated on a scale from 1 to 10, with 1 indicating very high detectability and 10 indicating very low detectability. The detection rating reflects the effectiveness of current detection methods or controls in place.\n\nTo determine the Risk Priority Number (RPN) for a specific failure mode, you simply multiply the severity, occurrence, and detection ratings together:\n\\[ RPN = Severity×Occurrence×Detection \\]\nThe resulting RPN provides a single numerical value that represents the relative risk associated with that particular failure mode. Higher RPN values indicate higher priority for addressing that failure mode because they represent combinations of more severe consequences, higher likelihood of occurrence, and lower detectability.\nRPNs help prioritize resources and efforts toward mitigating or eliminating the most critical failure modes to improve the overall reliability, safety, and quality of the system, process, or product being analyzed."
+  },
+  {
+    "objectID": "posts/20240415 FMEA/index.html#sec-fmea",
+    "href": "posts/20240415 FMEA/index.html#sec-fmea",
+    "title": "FMEA",
+    "section": "FMEA Steps: Courtesy of GPT",
+    "text": "FMEA Steps: Courtesy of GPT\nFMEA, or Failure Mode and Effects Analysis, is a systematic approach used to identify and prioritize potential failure modes within a process, product, or system, and to understand the potential effects of those failures. Here’s a breakdown of the process:\n\nScope Definition: Identify the process, product, or system to be analyzed. Define the boundaries and objectives of the analysis.\nTeam Formation: Assemble a cross-functional team with members who have diverse expertise related to the process or product being analyzed. This team typically includes engineers, designers, quality experts, and relevant stakeholders.\nIdentification of Failure Modes: Brainstorm and list all possible failure modes that could occur within the chosen process or system. A failure mode is any way in which a process or product could fail to meet its intended purpose or function.\nDetermination of Effects: For each identified failure mode, determine the potential effects or consequences of that failure. These effects can range from minor inconveniences to serious safety hazards or financial losses.\nAssignment of Severity Ratings: Assign a severity rating to each failure mode based on the potential consequences. Severity ratings typically range from 1 to 10, with higher numbers indicating more severe consequences.\nIdentification of Causes: Determine the root causes or mechanisms behind each failure mode. This involves analyzing the factors that could lead to the occurrence of the failure.\nAssignment of Occurrence Ratings: Estimate the likelihood or frequency of each failure mode occurring. Occurrence ratings are typically assigned on a scale from 1 to 10, with higher numbers indicating a higher likelihood of occurrence.\nAssignment of Detection Ratings: Assess the likelihood of detecting each failure mode before it leads to a negative consequence. Detection ratings are also typically assigned on a scale from 1 to 10, with higher numbers indicating a higher likelihood of detection.\nCalculation of Risk Priority Numbers (RPN): Calculate the Risk Priority Number for each failure mode by multiplying the severity, occurrence, and detection ratings together (RPN = Severity × Occurrence × Detection).\nPrioritization and Action Planning: Prioritize the identified failure modes based on their RPNs. Focus on addressing the failure modes with the highest RPNs first. Develop action plans to mitigate or eliminate these high-priority failure modes, which may involve design changes, process improvements, or additional quality controls.\nImplementation of Corrective Actions: Implement the action plans developed to address the high-priority failure modes. Monitor the effectiveness of these actions and make adjustments as necessary.\nContinuous Improvement: FMEA is an iterative process. Regularly review and update the analysis as new information becomes available or as changes are made to the process or product. This helps to ensure ongoing quality improvement and risk management."
+  },
+  {
+    "objectID": "posts/20240415 FMEA/index.html#footnotes",
+    "href": "posts/20240415 FMEA/index.html#footnotes",
+    "title": "FMEA",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nhttps://www.cms.gov/medicare/provider-enrollment-and-certification/qapi/downloads/guidanceforfmea.pdf↩︎\nISO 14971, the International Standard for Risk Management↩︎"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "I am the son of\n\n강은섭 姜銀燮 (1930-2020)\n황현실 黃賢實 (1932-2023)\n\nI have always wanted to find and document family records. However, language barriers and scarcity of readily available documents put a stop.\nThe challenge was that these records, if located, were recorded in Chinese.\nI would have learned Chinese, if I had stayed in Korea.\nI tried to learn both spoken and written Chinese. Spoken Mandarin and Traditional and not simplified characters.\nWhile it got me familiar with a grade school level understanding but never further.\nI have a yearning to remember my parents more fully And to fulfill my obligation to put into use what I have been given in terms of education and resources within my sphere.\nI plan to document tools I have, the challenges and struggles and occasional breakthroughs, in coming days.\nAll the best,\nFebruary, 2024, Anno Domini"
+  },
+  {
+    "objectID": "posts/20240405 Hwang Family - 20th Gen/index.html",
+    "href": "posts/20240405 Hwang Family - 20th Gen/index.html",
+    "title": "Hwang Family Records",
+    "section": "",
+    "text": "Visited Korea a number of times.\nBut I did not meet mother’s extended family.\nDuring summer of 2007, Mom met one of her relatives.\nThat relative gave us 2 books containing records of mom’s family\nI couldn’t recognize any of its writings.\nMoreover I didn’t understand the layout of that type of book.\nI appreciated the work of gathering and preserving such records.\nBut the contents of the book was still inaccessible.\nOver the years, I have had an interest in learning about the history, people and the language of China.\nAbout 30 years ago, our company opened an operation in Suzhou (苏州市)1. One of the equipment to run its factory was sourced from Utah, where I was working. I was chosen along with several other engineers to support that transfer.\nMy first trip to a country, other than Korea and US. The experience was more than I had read about and heard from people that have traveled there. More than I could have imagined\nIndeed, classical saying is\nAbove heaven, below Suzhou and Hangzhou.\nDecided to pursue studying the language. The course at SLCC (Salt Lake Community College) was taught by a gentleman from 桂林市2\nMade some progress but gave up learning at an regularly scheduled intervals.\nMet other individuals that encouraged me. Including Pat Geraghty who quoted a study,\nRecently, had a dinner with a neighbor. We had known them since school days as newly wed families. We were welcoming their son who was recently married. The husband and wife both worked at Family Search\nShowed these 2 books to them.\nThey immediately gave a historical and practical overview and lesson on how to access these records."
+  },
+  {
+    "objectID": "posts/20240405 Hwang Family - 20th Gen/index.html#renewed-effort",
+    "href": "posts/20240405 Hwang Family - 20th Gen/index.html#renewed-effort",
+    "title": "Hwang Family Records",
+    "section": "Renewed Effort",
+    "text": "Renewed Effort\nOpened its pages again.\nCame across this record. Book 2 page 319, row 2\n\n\n\nFigure 2: An Entry for 황운학"
+  },
+  {
+    "objectID": "posts/20240405 Hwang Family - 20th Gen/index.html#황운학",
+    "href": "posts/20240405 Hwang Family - 20th Gen/index.html#황운학",
+    "title": "Hwang Family Records",
+    "section": "황운학",
+    "text": "황운학\n무자년 1 웧 15 일 생 실백천 조씨 이거 평창군 대화면\nHe was born in the yea, 戊子. 22 generations from the founder of this branch of the Hwang Family.\nAccording to 육십갑자(六十甲子)3 way of counting years corresponds to\n\n2008\n1948\n1888\n1828\n1768\n1708\n1648\n1588\n1528\n1468"
+  },
+  {
+    "objectID": "posts/20240405 Hwang Family - 20th Gen/index.html#황윤일",
+    "href": "posts/20240405 Hwang Family - 20th Gen/index.html#황윤일",
+    "title": "Hwang Family Records",
+    "section": "황윤일",
+    "text": "황윤일\nHis father was 윤일 潤一 Born in the year 己酉 기유 2 월 8 일 생\nThat year corresponds to\n\n1969\n1909\n1849\n1789\n1729\n1669\n1609\n1549\n1489\n1429\n\nHe passed away in the year, 丁巳(정사), at age 52.\n9 월 20 일\n\n1977\n1917\n1857\n1797\n1737\n1677\n1617\n1557\n1497\n1437\n\n실경주 김씨 부진(?) 신 현 3 월 25 일 생 甲寅(갑인) 10 월 10 일\n(married lady Kim who was born in the year 甲寅(갑인))\n\n1974\n1914\n1854\n1794\n1734\n1674\n1614\n1554\n1494\n1434"
+  },
+  {
+    "objectID": "posts/20240405 Hwang Family - 20th Gen/index.html#on-line-portal-in-korean",
+    "href": "posts/20240405 Hwang Family - 20th Gen/index.html#on-line-portal-in-korean",
+    "title": "Hwang Family Records",
+    "section": "On Line Portal (in Korean)",
+    "text": "On Line Portal (in Korean)\nEntered names of 2 individuals above, narrowing search to 제안(齊安)황씨\n제안(齊安)황씨 http://hwang.ne.kr/jokbo/DAT/jbClan.php\nThe search resulted in,\nSearch Result"
+  },
+  {
+    "objectID": "posts/20240405 Hwang Family - 20th Gen/index.html#my-maternal-grandfather",
+    "href": "posts/20240405 Hwang Family - 20th Gen/index.html#my-maternal-grandfather",
+    "title": "Hwang Family Records",
+    "section": "My Maternal Grandfather",
+    "text": "My Maternal Grandfather\nHe was also named 황운학 and his father was 황만수.\nThey are of the family line,齊安黃氏 (제안황씨).\nThat is according to the records we have understood thus far.\nGrandfather was born in the year 1909.\nI will keep searching this book and learn more about the 족보4."
+  },
+  {
+    "objectID": "posts/20240405 Hwang Family - 20th Gen/index.html#other-findings",
+    "href": "posts/20240405 Hwang Family - 20th Gen/index.html#other-findings",
+    "title": "Hwang Family Records",
+    "section": "Other Findings",
+    "text": "Other Findings\n\nfounder of the 제안(齊安)황씨"
+  },
+  {
+    "objectID": "posts/20240405 Hwang Family - 20th Gen/index.html#footnotes",
+    "href": "posts/20240405 Hwang Family - 20th Gen/index.html#footnotes",
+    "title": "Hwang Family Records",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nhttps://en.wikipedia.org/wiki/Suzhou?oldformat=true↩︎\nhttps://en.wikipedia.org/wiki/Guilin↩︎\nhttps://namu.wiki/w/%EC%9C%A1%EC%8B%AD%EA%B0%91%EC%9E%90↩︎\n족보(族譜)는 ‘한 가문의 계통과 혈통 관계를 적어 기록한 책’ 또는 ’한 가문의 계통과 혈통 관계’이다, https://namu.wiki/w/%EC%A1%B1%EB%B3%B4↩︎"
   },
   {
     "objectID": "posts/20240403 Build a Rainbow/index.html",
@@ -56,11 +147,11 @@
     "text": "Footnotes\n\n\nA filmstrip is a series of individual frames containing images or text arranged in sequence on a strip of transparent or opaque material. In the context of today’s technology-savvy teenagers, a filmstrip might be described as follows: Imagine a visual story told through a series of rectangular images, like the frames on Instagram stories, but in a linear format. Each frame depicts a scene or moment from the story, accompanied by text or captions to convey dialogue, narration, or additional context. The images are vibrant and dynamic, resembling the high-definition visuals found in movies and TV shows, but condensed into smaller, easily digestible segments. Think of it as a mini-movie that you can scroll through with your fingertips.↩︎\nExodus 20:12↩︎"
   },
   {
-    "objectID": "posts/20240311 Eastlawn/index.html",
-    "href": "posts/20240311 Eastlawn/index.html",
-    "title": "A Resting Place",
+    "objectID": "posts/20240410 Hwang Family - 10th Gen/index.html",
+    "href": "posts/20240410 Hwang Family - 10th Gen/index.html",
+    "title": "Hwang Family Records - 10th Gen",
     "section": "",
-    "text": "The Center Street in one town turns into 4800 North in another. Then it becomes the Foothill Drive.\nA left turn takes one, a couple hundred feet up to a bluff on the east side of the town.\nFrom the knoll, one can see the river bottom area as well as the mountains and the lake that runs along the full length of the valley.\nPerhaps the mountain behind it was the source for this mesa. It may have tumbled down one day. It is also possible that it was formed by the sediment from the old Bonneville Lake.\n\n\n\nWest Mountains\n\n\nThis is also a gathering and a resting place for many. There is section that Korean Americans are buried.\nOften, on New Years and memorable dates, we run into old acquaintances.\nOn the New Year’s day, we met Steve K. We hadn’t seen him over 20 years. He was visiting his mom’s grave, she had passed away in 2021.\nIt was great to catch up.\nThen this Saturday, we met Steve’s aunt. Her mother passed away on March 9th, some 30 years ago.\nWhen I was a student, I would visit her in Payson. Remember they had an orchard\nAfter marriage, we used to pick apples and asparagus there. Now the orchard is no more and houses fill the area surrounding the Payson Temple.\n\n\n\nMount Nebo\n\n\nMany of the Korean Saints settled in the Utah Valley area because of the gospel.\n\n\n\nCascade Mountain\n\n\nThey served, testified and lived their faith. My parents, Sister K’s parents and the parent of Steve are interred here.\nGrateful that we were able to catch up at the place of the resting place.\nFar removed from their birthplace yet close to their loved ones and ever closer to heaven.\nMay those mountains protect and sustain this sanctuary.\n\n\n\nWestward Road"
+    "text": "Due to efforts of 김진호 씨\nAble to locate and confirm 황윤업. Born in the year 1582, February 19th\nhttp://hwang.ne.kr/jokbo/php/jbMove.php?IdNo=4206620"
   },
   {
     "objectID": "posts/20240215 Kay Irvine Family/index.html",
@@ -77,60 +168,11 @@
     "text": "Immediate Help\nTranslated by Meg　さん\n\nThis family tree was created by Kay Arakiさん herself.\n(Her name is circled, lower right, second from right).\nA wonderful layout with both common year as well as various Japanese period designations. Showa Period (昭和時代) and Taisho Era (大正時代)\nIt is quite amazing that she created this and that we were able to locate it.\nAlso have the technology and the language skills nearby to translate this\nAlso a reminder that midst all of the technology, a sheet of paper with a right arrangement of names and dates can capture precious information\nArakiさん, ありがとうございました!\n(Thank you Spencer and Meg for your help)"
   },
   {
-    "objectID": "posts/20240405 Visits to Korea - 2007/index.html",
-    "href": "posts/20240405 Visits to Korea - 2007/index.html",
-    "title": "Hwang Family Records",
+    "objectID": "posts/20240311 Eastlawn/index.html",
+    "href": "posts/20240311 Eastlawn/index.html",
+    "title": "A Resting Place",
     "section": "",
-    "text": "Visited Korea a number of times.\nBut I did not meet mother’s extended family.\nDuring summer of 2007, Mom met one of her relatives.\nThat relative gave us 2 books containing records of mom’s family\nI couldn’t recognize any of its writings.\nMoreover I didn’t understand the layout of that type of book.\nI appreciated the work of gathering and preserving such records.\nBut the contents of the book was still inaccessible.\nOver the years, I have had an interest in learning about the history, people and the language of China.\nAbout 30 years ago, our company opened an operation in Suzhou (苏州市)1. One of the equipment to run its factory was sourced from Utah, where I was working. I was chosen along with several other engineers to support that transfer.\nMy first trip to a country, other than Korea and US. The experience was more than I had read about and heard from people that have traveled there. More than I could have imagined\nIndeed, classical saying is\nAbove heaven, below Suzhou and Hangzhou.\nDecided to pursue studying the language. The course at SLCC (Salt Lake Community College) was taught by a gentleman from 桂林市2\nMade some progress but gave up learning at an regularly scheduled intervals.\nMet other individuals that encouraged me. Including Pat Geraghty who quoted a study,\nRecently, had a dinner with a neighbor. We had known them since school days as newly wed families. We were welcoming their son who was recently married. The husband and wife both worked at Family Search\nShowed these 2 books to them.\nThey immediately gave a historical and practical overview and lesson on how to access these records."
-  },
-  {
-    "objectID": "posts/20240405 Visits to Korea - 2007/index.html#renewed-effort",
-    "href": "posts/20240405 Visits to Korea - 2007/index.html#renewed-effort",
-    "title": "Hwang Family Records",
-    "section": "Renewed Effort",
-    "text": "Renewed Effort\nOpened its pages again.\nCame across this record. Book 2 page 319, row 2\n\n\n\nFigure 2: An Entry for 황운학"
-  },
-  {
-    "objectID": "posts/20240405 Visits to Korea - 2007/index.html#황운학",
-    "href": "posts/20240405 Visits to Korea - 2007/index.html#황운학",
-    "title": "Hwang Family Records",
-    "section": "황운학",
-    "text": "황운학\n무자년 1 웧 15 일 생 실백천 조씨 이거 평창군 대화면\nHe was born in the yea, 戊子. 22 generations from the founder of this branch of the Hwang Family.\nAccording to 육십갑자(六十甲子)3 way of counting years corresponds to\n\n2008\n1948\n1888\n1828\n1768\n1708\n1648\n1588\n1528\n1468"
-  },
-  {
-    "objectID": "posts/20240405 Visits to Korea - 2007/index.html#황윤일",
-    "href": "posts/20240405 Visits to Korea - 2007/index.html#황윤일",
-    "title": "Hwang Family Records",
-    "section": "황윤일",
-    "text": "황윤일\nHis father was 윤일 潤一 Born in the year 己酉 기유 2 월 8 일 생\nThat year corresponds to\n\n1969\n1909\n1849\n1789\n1729\n1669\n1609\n1549\n1489\n1429\n\nHe passed away in the year, 丁巳(정사), at age 52.\n9 월 20 일\n\n1977\n1917\n1857\n1797\n1737\n1677\n1617\n1557\n1497\n1437\n\n실경주 김씨 부진(?) 신 현 3 월 25 일 생 甲寅(갑인) 10 월 10 일\n(married lady Kim who was born in the year 甲寅(갑인))\n\n1974\n1914\n1854\n1794\n1734\n1674\n1614\n1554\n1494\n1434"
-  },
-  {
-    "objectID": "posts/20240405 Visits to Korea - 2007/index.html#on-line-portal-in-korean",
-    "href": "posts/20240405 Visits to Korea - 2007/index.html#on-line-portal-in-korean",
-    "title": "Hwang Family Records",
-    "section": "On Line Portal (in Korean)",
-    "text": "On Line Portal (in Korean)\nEntered names of 2 individuals above, narrowing search to 제안(齊安)황씨\n제안(齊安)황씨 http://hwang.ne.kr/jokbo/DAT/jbClan.php\nThe search resulted in,\nSearch Result"
-  },
-  {
-    "objectID": "posts/20240405 Visits to Korea - 2007/index.html#my-maternal-grandfather",
-    "href": "posts/20240405 Visits to Korea - 2007/index.html#my-maternal-grandfather",
-    "title": "Hwang Family Records",
-    "section": "My Maternal Grandfather",
-    "text": "My Maternal Grandfather\nHe was also named 황운학 and his father was 황만수.\nThey are of the family line,齊安黃氏 (제안황씨).\nThat is according to the records we have understood thus far.\nGrandfather was born in the year 1909.\nI will keep searching this book and learn more about the 족보4."
-  },
-  {
-    "objectID": "posts/20240405 Visits to Korea - 2007/index.html#other-findings",
-    "href": "posts/20240405 Visits to Korea - 2007/index.html#other-findings",
-    "title": "Hwang Family Records",
-    "section": "Other Findings",
-    "text": "Other Findings\n\nfounder of the 제안(齊安)황씨"
-  },
-  {
-    "objectID": "posts/20240405 Visits to Korea - 2007/index.html#footnotes",
-    "href": "posts/20240405 Visits to Korea - 2007/index.html#footnotes",
-    "title": "Hwang Family Records",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nhttps://en.wikipedia.org/wiki/Suzhou?oldformat=true↩︎\nhttps://en.wikipedia.org/wiki/Guilin↩︎\nhttps://namu.wiki/w/%EC%9C%A1%EC%8B%AD%EA%B0%91%EC%9E%90↩︎\n족보(族譜)는 ‘한 가문의 계통과 혈통 관계를 적어 기록한 책’ 또는 ’한 가문의 계통과 혈통 관계’이다, https://namu.wiki/w/%EC%A1%B1%EB%B3%B4↩︎"
+    "text": "The Center Street in one town turns into 4800 North in another. Then it becomes the Foothill Drive.\nA left turn takes one, a couple hundred feet up to a bluff on the east side of the town.\nFrom the knoll, one can see the river bottom area as well as the mountains and the lake that runs along the full length of the valley.\nPerhaps the mountain behind it was the source for this mesa. It may have tumbled down one day. It is also possible that it was formed by the sediment from the old Bonneville Lake.\n\n\n\nWest Mountains\n\n\nThis is also a gathering and a resting place for many. There is section that Korean Americans are buried.\nOften, on New Years and memorable dates, we run into old acquaintances.\nOn the New Year’s day, we met Steve K. We hadn’t seen him over 20 years. He was visiting his mom’s grave, she had passed away in 2021.\nIt was great to catch up.\nThen this Saturday, we met Steve’s aunt. Her mother passed away on March 9th, some 30 years ago.\nWhen I was a student, I would visit her in Payson. Remember they had an orchard\nAfter marriage, we used to pick apples and asparagus there. Now the orchard is no more and houses fill the area surrounding the Payson Temple.\n\n\n\nMount Nebo\n\n\nMany of the Korean Saints settled in the Utah Valley area because of the gospel.\n\n\n\nCascade Mountain\n\n\nThey served, testified and lived their faith. My parents, Sister K’s parents and the parent of Steve are interred here.\nGrateful that we were able to catch up at the place of the resting place.\nFar removed from their birthplace yet close to their loved ones and ever closer to heaven.\nMay those mountains protect and sustain this sanctuary.\n\n\n\nWestward Road"
   },
   {
     "objectID": "posts/20240323 No One Blame/index.html",
@@ -235,6 +277,6 @@
     "href": "index.html",
     "title": "Family History",
     "section": "",
-    "text": "Kang Family 호적등본\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nHwang Family Records\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nBuild a Reminder\n\n\n\n\n\n\n\nreminders\n\n\n\n\n\n\n\n\n\n\n\nApr 3, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nHoney Selling Philosopher\n\n\n\n\n\n\n\nlessons\n\n\n\n\n\n\n\n\n\n\n\nMar 25, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nInterpretations\n\n\n\n\n\n\n\nlessons\n\n\n\n\n\n\n\n\n\n\n\nMar 24, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nNo One to Blame\n\n\n\n\n\n\n\nlessons\n\n\n\n\n\n\n\n\n\n\n\nMar 23, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nA Resting Place\n\n\n\n\n\n\n\nrest\n\n\n\n\n\n\n\n\n\n\n\nMar 11, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nSpirit of Contentment\n\n\n\n\n\n\n\nexamples\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nGrandma Kim : 김연화 (金蓮花)\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nFeb 25, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nGrandma Kim: 김옥돌\n\n\n\n\n\n\n\nmemories\n\n\n김옥돌\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nMy Aunt: Dad’s Side\n\n\n\n\n\n\n\nrecords\n\n\nkangs\n\n\n\n\n\n\n\n\n\n\n\nFeb 19, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\n황현실 黃賢實 Family Intro\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nFeb 18, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nKay Irvine Family\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nFamily History Beginnings\n\n\n\n\n\n\n\ntools\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nBeginning\n\n\n\n\n\n\n\n\n\n\n\nFeb 13, 2024\n\n\nDK\n\n\n\n\n\n\nNo matching items"
+    "text": "FMEA\n\n\n\n\n\n\n\nlessons\n\n\nlegacy\n\n\n\n\n\n\n\n\n\n\n\nApr 15, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nHwang Family Records - 10th Gen\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nApr 10, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nKang Family 호적등본\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nHwang Family Records\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nBuild a Reminder\n\n\n\n\n\n\n\nreminders\n\n\n\n\n\n\n\n\n\n\n\nApr 3, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nHoney Selling Philosopher\n\n\n\n\n\n\n\nlessons\n\n\n\n\n\n\n\n\n\n\n\nMar 25, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nInterpretations\n\n\n\n\n\n\n\nlessons\n\n\n\n\n\n\n\n\n\n\n\nMar 24, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nNo One to Blame\n\n\n\n\n\n\n\nlessons\n\n\n\n\n\n\n\n\n\n\n\nMar 23, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nA Resting Place\n\n\n\n\n\n\n\nrest\n\n\n\n\n\n\n\n\n\n\n\nMar 11, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nSpirit of Contentment\n\n\n\n\n\n\n\nexamples\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nGrandma Kim : 김연화 (金蓮花)\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nFeb 25, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nGrandma Kim: 김옥돌\n\n\n\n\n\n\n\nmemories\n\n\n김옥돌\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nMy Aunt: Dad’s Side\n\n\n\n\n\n\n\nrecords\n\n\nkangs\n\n\n\n\n\n\n\n\n\n\n\nFeb 19, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\n황현실 黃賢實 Family Intro\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nFeb 18, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nKay Irvine Family\n\n\n\n\n\n\n\nrecords\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nFamily History Beginnings\n\n\n\n\n\n\n\ntools\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nDK\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nBeginning\n\n\n\n\n\n\n\n\n\n\n\nFeb 13, 2024\n\n\nDK\n\n\n\n\n\n\nNo matching items"
   }
 ]
