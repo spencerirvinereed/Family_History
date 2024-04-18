@@ -6,7 +6,7 @@ categories: [lessons, legacy]
 image: "m3.jpg"
 ---
 
-Few acronyms conjures a uniform reaction from co-workers as the acronym `FMEA`
+Few acronyms elicit a uniform reaction from co-workers as the acronym `FMEA`
 
 The normal reaction is something close to disdain.
 
@@ -14,17 +14,17 @@ The normal reaction is something close to disdain.
 
 It is a tool used to identify and mitigate risks.
 
-It began as a continuous improvement tool.
+Often done as a team and it can take hours or even days, depending on the complexity of the process being analyzed.
 
-It is often done as a team and can take hours or even days, depending on the complexity of the process being analyzed.
+Believe it began as a continuous improvement tool.
 
-Deliberation takes long, once team size is more than 2 or 3 persons.
+Deliberation on the failure modes and its impact can take a life of its own, once team size is more than 2 or 3 persons.
 
 When completed, team members sigh a relief and never look at the document, until next time they are required to meet to satisfy the development requirements.
 
 ---
 
-While working for a medical device company, I remember seeing a multiple TAB spreadsheet with entries after entries with this type of description,
+While working for a medical device company, remember seeing a multiple TAB spreadsheet with entries after entries with this type of description,
 
 > ...potentially resulting in serious health complications or even death.
 
@@ -43,19 +43,19 @@ The main reason for negative view and impact of the tool is that,
 
 After spending requisite time working on the document, some people entertain the idea of abandoning the project or leaving the company.
 
-What then is the solution?
+What then, is the solution?
 
-Perhaps spend some time putting together a companion document, `Success Modes and Effects Affirmation`.
+Perhaps spend some time putting together a companion document, `Success Modes and Efforts Analysis`.
 
 Projects are undertaken to provide benefits to society and the organization.
 
-Useful products, services, and even life saving inventions are imagined but at times abandoned due to the quagmire of organizations.
+Useful products, services, and even life saving inventions are imagined but at times abandoned due to the quagmire of organizational requirements such as `FMEA`.
 
 ![](m2.jpg)
 
-## FMEA Essentials in my life
+## FMEA Essentials in a Life
 
-RPN is determined, (see @sec-rpn)
+RPN is determined as follows, (see @sec-rpn)
 
 Occurrence - how likely something will happen
 Severity - how much harm (pain) will this cause
@@ -67,19 +67,18 @@ Based on my experience, these are likely outcomes of most life's issues
 
 - The postulated events rarely occur, they were potential issues to begin with.
 - Even when they do occur the impact or the severity is much less than estimated
-- Most of the time, when the negative event occurs the sting is lessened by one's fortitude or there are loved ones around to either shield or comfort.
+- Most of the time, when the negative events occur the impact is lessened by one's fortitude or there are loved ones around to either shield or comfort.
 
-Moreover, one's faith in and from God and examples and faith of others will help in meeting the challenges that do occur.
+Moreover, one's faith in and the help from God and examples and faith of others will help in meeting the challenges that do occur.
 
-So I will continue to slog through FMEAs at work.
+So I will continue to toil through `FMEA`s at work.
 
 However, in life, I will note hazards, a potential sources of harm^[ISO 14971, the International Standard for Risk Management] but I will not dwell on them.
 
-Instead, I will build and maintain the Success Mode(s) Effects and Analysis
-Adding to it the learning from the past and present.
-From those that near and far.
+Instead, I will build and maintain the `Success Mode(s) and Efforts and Analysis`
+Adding to it, the learning from the past and present.
 
-And find ways to implement them for future successes and failures.
+And find ways to implement them for future successes and to accept failures.
 
 I believe this is the way my father and mother approached life and I will do likewise.
 

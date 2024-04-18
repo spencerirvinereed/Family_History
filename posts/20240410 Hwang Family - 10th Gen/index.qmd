@@ -3,6 +3,7 @@ title: "Hwang Family Records - 10th Gen"
 author: "DK"
 date: "2024-04-10"
 categories: [records]
+image: "m1.jpg"
 ---
 
 Due to efforts of 김진호 씨
@@ -14,3 +15,5 @@ Able to locate and confirm 황윤업. Born in the year 1582, February 19th
 ![](EPSON072.JPG)
 
 ![](EPSON010.JPG) ![](EPSON011.JPG) ![](EPSON012.JPG)
+
+\![\](m1.jpg)
