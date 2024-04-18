@@ -53,7 +53,7 @@ Useful products, services, and even life saving inventions are imagined but at t
 
 ![](m2.jpg)
 
-## FMEA Essentials in a Life
+## FMEA Essentials in Life
 
 RPN is determined as follows, (see @sec-rpn)
 
