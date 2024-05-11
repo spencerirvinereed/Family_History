@@ -1,0 +1,18 @@
+---
+title: "Snow Depth"
+author: "DK"
+date: "2024-04-21"
+categories: [plenty]
+draft: yes
+image: "m3.jpg"
+---
+
+Number of ways to measure snow depth.
+
+Best is to go to the mountains.
+
+Lagging parameter is to see the flow from canyons.
+
+Flow signals springtime in Utah
+
+<Video of stream here></Video>
