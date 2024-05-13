@@ -7,9 +7,13 @@ draft: yes
 image: "m3.jpg"
 ---
 
-Worked with Roger G. He was a Program Manager, a veteran, a Marine.
+Worked with Roger G.
 
-He ran the program like a military. I was Program's Engineering Manager.
+He was the Program Manager, a veteran, a Marine.
+
+He ran the program like a military.
+
+I was Program's Engineering Manager.
 
 Roger had many roles such as Program Planning, Execution and Meetings with Customers, the Defense Contract Management Agency
 
@@ -17,31 +21,43 @@ The one role I remember most, is when we had questions about whether something w
 
 This was important, since the program was Cost-Plus, if in scope, we would be paid for the effort.
 
-Used to wonder how he knew for sure and gave a clear answer. He knew his program and therefore its scope.
+Used to wonder how he knew for sure and gave a clear answer.
+
+He knew his program and therefore its scope.
+
+In this life, it is seldom that we know the end point and the boundaries, as Roger did.
 
 ------------------------------------------------------------------------
 
 He lived in the world that formulated and answered these questions\^\[**TOC Thinking Processes & Philosophy,** <https://www.tocinstitute.org/theory-of-constraints.html>\]
 
 -   What to change
-
-<!-- -->
-
 -   What to change to
-
 -   How to cause the change
 
-VS
-
-How would he answer these question?
+However, how would he answer these related question?
 
 -   What to keep
 
 -   What was the original intent
 
--   How far to go back or keep as is
+-   How far to go back and how much deviation from the original is allowed?
 
-Perhaps, both progress made with changes and holding onto old principles meet in the same location
+## Remaining questions
+
+Is it possible that both the progress made with changes and holding onto old principles meet in the same location
+
+## My Parents as Program Managers
+
+Though my parents spoke more softly than Roger, they were equally clear and certain whether the issue was relevant in their lives.
+
+If so, they knew which side they chose and communicated their reasoning, unlike Roger, who only gave answers and no explanations for his decision.
+
+They had an ability to understand various issues, not because of expert knowledge.
+
+But because they experienced most difficult situations and dealt people of all types.
+
+Upon meeting a person, they immediately formulated their opinions and they were correct in their assessment.
 
 The place where it all started, the beginning
 
@@ -54,6 +70,16 @@ Through their trials and experiences, they gathered practical knowledges.
 Ways to formulate questions and provide answers for both temporal and spiritual issues.
 
 While they knew the answer immediately, they would take their time in answering.
+
+Not all changes are progress.
+
+Likewise not all progresses due to changes but due to keeping the status quo.
+
+The wisdom is knowing and separating what to keep and what to change.
+
+My parents were masters at this.
+
+\[10\] For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. \[11\] **If a son shall ask bread of any of you that is a father, will he give him a stone?** or if he ask a fish, will he for a fish give him a serpent?
 
 Whereas Roger gave a direct, no-sides-considered answer, my parents would deliberate.
 
@@ -99,7 +125,7 @@ My parents helped me with these set of questions and guidelines
 
 -   The source of faith and grace or gift that bridges the what was, what is now, and what we desire to be
 
----
+------------------------------------------------------------------------
 
 In public life above questions,
 

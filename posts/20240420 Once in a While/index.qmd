@@ -78,3 +78,22 @@ Thank you for teaching and living your lives so that we can traverse this life w
 >and Jesus Christ, whom thou hast sent
 
 ![](m4.jpg)
+
+
+## Chat GPT Explains how rainbow works
+
+A rainbow is a natural occurrence that happens when sunlight is refracted, or bent, and then reflected inside raindrops. This creates a spectrum of colors in the sky. Here's how it works:
+
+1. **Sunlight:** It all begins with sunlight. Sunlight may look white, but it's actually composed of various colors, from red to violet.
+
+2. **Refraction:** When sunlight encounters raindrops suspended in the air, the light is bent as it enters the droplet. This happens because light travels at different speeds through air and water. As sunlight moves from air into the denser water inside the droplet, it slows down and bends.
+
+3. **Reflection:** Once inside the raindrop, the light reflects off the inside surface. It then reflects off the back surface and exits the droplet.
+
+4. **Dispersion:** As the light exits the raindrop, it's spread out into its component colors. This happens because different colors of light bend by different amounts inside the droplet, causing them to separate into a spectrum.
+
+5. **Multiple Reflections:** Some of the dispersed light travels to the observer's eyes, forming the appearance of a rainbow. The light undergoes multiple reflections inside the raindrop before exiting, causing the different colors to spread out in an arc.
+
+6. **Angular Dependence:** The angle at which the observer sees the rainbow depends on the angle of sunlight entering the raindrops and how the light exits them. This is why rainbows are typically seen when the sun is low and the observer is facing away from it.
+
+In summary, a rainbow is a beautiful result of sunlight interacting with raindrops and the principles of optics.

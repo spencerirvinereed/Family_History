@@ -13,7 +13,7 @@ A dinner guest commented.
 
 Referring to Korea and America.
 
-I think he was being a good guest and complimenting the host. However, if he meant what he stated what exactly are the traits of these 2 cultures.
+I think he was being a good guest and complimenting the host. However, if he meant what he stated, what exactly are the traits of these 2 cultures.
 
 Consulting Chat GPT produced the following Korean Traits, @sec-korean American Traits, @sec-american
 
@@ -23,31 +23,25 @@ In set theory, when an element is not a member of any sets under consideration, 
 
 There is little or no overlap
 
-![Similarities between Korean and American Traits](national traits usa kor.png){#fig-f1}
+![Similarities between Korean and American Traits](national%20traits%20usa%20kor.png){#fig-f1}
 
 Means we have assimilated into a new culture, without giving up where we come from.
 
-
 ## Koreans Tend to Cling to Past Traditions
 
-It seems that Koreans hold on to past teachings and traditions.
-Not all, but there are enough `Lone Wolfs` that remind the rest there are certain warnings, things to avoid.
-They are usually negative
+Koreans hold onto to things, even as they embrace new trends
+
+For example, a form of ritualistic sacrifice is held for new cars, new apt or new factory. As recent as 20 years ago.
+
+It seems that Koreans hold on to past teachings and traditions. Not all, but there are enough `Lone Wolfs` that remind the rest there are certain warnings, things to avoid. They are usually negative
 
 It would have prevented even the most optimistic individuals.
 
 Now all things are in play and questioned.
 
-Are they foolish or wise traditions
-Do we throw out all traditions, 
-What are worth keeping
+Are they foolish or wise traditions Do we throw out all traditions, What are worth keeping
 
-Will we keep the intersection of 2 cultures. $\cap$
-Focus on the union of 2 sets. $\cup$
-Abandon both and start over. { }
-
-
-
+Will we keep the intersection of 2 cultures. $\cap$ Focus on the union of 2 sets. $\cup$ Abandon both and start over. { }
 
 ## Traits of Korean People {#sec-korean}
 
