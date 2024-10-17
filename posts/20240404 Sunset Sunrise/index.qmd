@@ -7,18 +7,18 @@ draft: yes
 image: "m1.jpeg"
 ---
 
-It is spring time in the northern hemisphere.  
+It is spring time in the northern hemisphere.\
 More specifically, along the Wasatch Front, 40 degrees latitude north.
 
 It is also a wedding season
 
-At times, I think of words to `Sunrise, Sunset`^[Fiddler on the Roof]
-Are there words of wisdom? 
-To help ease their load
+At times, I think of words to `Sunrise, Sunset`[^1] Are there words of wisdom? To help ease their load
+
+[^1]: Fiddler on the Roof
 
 The song reminds us,
 
->They must learn from another.
+> They must learn from another.
 
 However, another song could be named `Sunset, Sunrise`
 
@@ -31,51 +31,48 @@ Recognizing the lack of prominence when compared to sunrise, yet the importance 
 ## Sunset as a marker
 
 Recently, in the parts of northern hemisphere, people witnessed the total eclipse of the sun.
-There is a daily celetial eclipse, 
 
-Lasting 14 hours 40 during the winter solstice to 9 hours during summer solstice^[At this latitude the sun is visible for 15 hours, 1 minute and 28 seconds during the summer solstice and 9 hours, 20 minutes during the winter solstice. On 21 June, the maximum altitude of the sun is 73.44 degrees, while it's 26.56 degrees on 21 December, from Wikipedia].
+There is a daily celetial eclipse,
 
-Growing up and until recently,took for granted, eventual rise of the sun 
+Lasting 14 hours 40 during the winter solstice to 9 hours during summer solstice[^2].
+
+[^2]: At this latitude the sun is visible for 15 hours, 1 minute and 28 seconds during the summer solstice and 9 hours, 20 minutes during the winter solstice. On 21 June, the maximum altitude of the sun is 73.44 degrees, while it's 26.56 degrees on 21 December, from Wikipedia
+
+Growing up and until recently,took for granted, eventual rise of the sun
 
 No longer
 
-It is a miracle that in the vast universe of darkness, there is a giant furnace.
-This furnace is 865,000 miles in diameter and provides warmth and light to inhabitants 93.3 million miles away
+It is a miracle that in the vast universe of darkness, there is a giant furnace. This furnace is 865,000 miles in diameter and provides warmth and light to inhabitants 93.3 million miles away
 
-Travelling as electromagnetic waves through space and completing its journey to earth in 8 and 1/3 minutes.^[
-In summary, the Sun's energy travels through space as electromagnetic radiation, originating from nuclear fusion in its core and gradually making its way through various layers of the Sun before being emitted into space.
+Travelling as electromagnetic waves through space and completing its journey to earth in 8 and 1/3 minutes.\^\[ In summary, the Sun's energy travels through space as electromagnetic radiation, originating from nuclear fusion in its core and gradually making its way through various layers of the Sun before being emitted into space.
 
 The Sun emits energy in the form of electromagnetic radiation, primarily in the form of visible light, but also including ultraviolet (UV), infrared (IR), and other wavelengths. This energy travels through space in the form of electromagnetic waves.
 
 Here's how it happens:
 
-1. **Nuclear Fusion**: In the core of the Sun, hydrogen atoms fuse to form helium in a process called nuclear fusion. This fusion releases an enormous amount of energy in the form of photons (light particles). These photons bounce around in the Sun's core for thousands of years before eventually reaching the surface.
+1.  **Nuclear Fusion**: In the core of the Sun, hydrogen atoms fuse to form helium in a process called nuclear fusion. This fusion releases an enormous amount of energy in the form of photons (light particles). These photons bounce around in the Sun's core for thousands of years before eventually reaching the surface.
 
-2. **Radiation Zone**: Once the photons are released in the core, they enter the radiation zone, where they travel in a zigzag path, constantly being absorbed and re-emitted by the dense plasma of the Sun. This process can take tens of thousands to millions of years.
+2.  **Radiation Zone**: Once the photons are released in the core, they enter the radiation zone, where they travel in a zigzag path, constantly being absorbed and re-emitted by the dense plasma of the Sun. This process can take tens of thousands to millions of years.
 
-3. **Convection Zone**: Near the surface of the Sun, the density decreases, and the plasma becomes less opaque. Here, the energy is carried outward by convection currents. Hot plasma rises, carrying energy towards the surface, while cooler plasma sinks back down to be reheated. This zone is much more turbulent than the radiation zone.
+3.  **Convection Zone**: Near the surface of the Sun, the density decreases, and the plasma becomes less opaque. Here, the energy is carried outward by convection currents. Hot plasma rises, carrying energy towards the surface, while cooler plasma sinks back down to be reheated. This zone is much more turbulent than the radiation zone.
 
-4. **Photosphere**: Finally, the energy reaches the photosphere, which is the visible surface of the Sun. From here, the energy is radiated out into space in the form of electromagnetic radiation.
+4.  **Photosphere**: Finally, the energy reaches the photosphere, which is the visible surface of the Sun. From here, the energy is radiated out into space in the form of electromagnetic radiation.
 
-5. **Space**: Once the energy leaves the Sun's photosphere, it travels through the vacuum of space as electromagnetic waves. These waves can travel indefinitely until they encounter an obstacle, such as a planet or another celestial object.
-]
+5.  **Space**: Once the energy leaves the Sun's photosphere, it travels through the vacuum of space as electromagnetic waves. These waves can travel indefinitely until they encounter an obstacle, such as a planet or another celestial object. \]
 
-Default state is darkness and the eclipse happens daily, differing in length.
-But it is also self induced.
-The rotation of the earth and the relative position makes it possible.
+Default state is darkness and the eclipse happens daily, differing in length. But it is also self induced. The rotation of the earth and the relative position makes it possible.
 
 Fortunate to the sun as a marker and source of light
 
+Sunrise is associated with certainty and a new day. Sunset is gratefulness and hope for another day
 
-Sunrise is associated with certainty and a new day.
-Sunset is gratefulness and hope for another day
+Bit of letting go, The things of the world beckons, stay a little while longer
 
-Bit of letting go, The things of the world beckons, stay a littile while longer Watch another event, an analysis of an event. Learn another skill. See another post.
+Watch another event, an analysis of an event. Learn another skill. See another post.
 
 But retire to bed we do for the renewal and rebirth.
 
-![](m2.jpg)
-------------------------------------------------------------------------
+## ![](m2.jpg)
 
 Benefits of living along the Wasatch Front are many.
 
@@ -97,14 +94,10 @@ One conference said 2 important things are eating well and sleeping well.
 
 ![](m3.jpg)
 
-
 ## Summary
 
-The duration and totality of eclipse was the topic for a while.
-However, we experience earth induced eclipse daily.
+The duration and totality of eclipse was the topic for a while. However, we experience earth induced eclipse daily.
 
 This is a reminder that the default state is darkness, a part of living in a universe that is largely empty and devoid of light source.
 
-A daily reminder and a celebration that sun returns.
-To provide variety and reckoning of time, moon and its phase.
-To provide seasonal variety, axis of earth is tilted
+A daily reminder and a celebration that sun returns. To provide variety and reckoning of time, moon and its phase. To provide seasonal variety, axis of earth is tilted
