@@ -383,3 +383,10 @@ Original Korean Transcript
 
 전이지 그러면 거기서는 아버지가 미군부대에 다녔지.
 
+## Creating Multimedia Files
+
+1. Record audio using a cellphone, save the `.m4a` file
+2. Process the file using `Audacity` or a software of choice, save the file as a `.WAV` file
+3. Import the audio file from step #2 and any photos into the `iMovie`.  Try to line up photos to match the event being described.
+4. Import the file into MS Word and use the `transcribe` option
+5. Take the output of transcription of the audio file and translate it into other languages, using `ChatGPT`.
